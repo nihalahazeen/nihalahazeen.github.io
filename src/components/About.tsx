@@ -1,4 +1,4 @@
-import { MapPin, Phone, Mail, Award, Coffee } from 'lucide-react';
+import { MapPin, Mail, Award, Coffee } from 'lucide-react';
 
 const About = () => {
   return (

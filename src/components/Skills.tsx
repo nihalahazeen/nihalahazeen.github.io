@@ -41,18 +41,7 @@ const Skills = () => {
     {
       title: 'Messaging & Real-time',
       icon: <MessageSquare className='w-6 h-6' />,
-      skills: ['RabbitMQ', 'Apache Kafka', 'Socket.IO', 'gRPC'],
-    },
-    {
-      title: 'AI/ML Integration',
-      icon: <Brain className='w-6 h-6' />,
-      skills: [
-        'LLM Integration',
-        'RAG Systems',
-        'TensorFlow',
-        'PyTorch',
-        'OpenAI API',
-      ],
+      skills: ['RabbitMQ', 'Socket.IO', 'WebSockets'],
     },
     {
       title: 'Backend Architecture',

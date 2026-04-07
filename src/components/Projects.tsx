@@ -1,4 +1,4 @@
-import { ExternalLink, Shield, Gem } from 'lucide-react';
+import { Shield, Gem } from 'lucide-react';
 
 const Projects = () => {
   const projects = [
